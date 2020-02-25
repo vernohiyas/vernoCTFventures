@@ -27,4 +27,14 @@ To get the command to read - as a filename instead of an argument input, we need
 ```
 bandit1@bandit:~$ cat ./-
 <flag is printed here>
+bandit1@bandit:~$ cat /home/bandit1/-
+<flag is printed here>
+bandit1@bandit:~$ cat ~/-
+<flag is printed here>
+bandit1@bandit:~$ cat $PWD/-
+<flag is printed here>
 ```
+
+Notes:  
+~ represent home directory for current user  
+$PWD is an environment variable that prints the current directory you are in.
