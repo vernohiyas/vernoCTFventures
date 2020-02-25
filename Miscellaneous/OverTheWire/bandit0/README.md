@@ -9,6 +9,9 @@ Host: bandit0@bandit.labs.overthewire.org
 Port: 2220  
 Pass: bandit0  
 
-With SSH, just key in ssh bandit0@bandit.labs.overthewire.org -p 2220  
+With SSH
+```
+ssh bandit0@bandit.labs.overthewire.org -p 2220  
+```
 
 Note: You can directly login as a user in this format <username>@<host>
