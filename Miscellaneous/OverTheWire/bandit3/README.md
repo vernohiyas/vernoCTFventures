@@ -6,6 +6,7 @@ Commands you may need to solve this level
 ls, cd, cat, file, du, find  
 <hr>  
 ssh bandit3@bandit.labs.overthewire.org -p 2220  
+
 Lets list the directory.  
 
 ```
