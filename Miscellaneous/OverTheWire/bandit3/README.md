@@ -7,7 +7,7 @@ ls, cd, cat, file, du, find
 <hr>  
 ssh bandit3@bandit.labs.overthewire.org -p 2220  
 Lets list the directory.  
-
+```
 bandit3@bandit:~$ ls -la
 total 24
 drwxr-xr-x  3 root root 4096 Oct 16  2018 .
@@ -16,7 +16,7 @@ drwxr-xr-x 41 root root 4096 Oct 16  2018 ..
 -rw-r--r--  1 root root 3526 May 15  2017 .bashrc
 drwxr-xr-x  2 root root 4096 Oct 16  2018 inhere
 -rw-r--r--  1 root root  675 May 15  2017 .profile
-
+```
 As you can see, there is a directory, the "d" at the left most of each file represents a directory.
 Note: "." and ".." represents current and parent directory respectively.  
   
