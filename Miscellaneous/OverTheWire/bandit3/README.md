@@ -5,8 +5,8 @@ The password for the next level is stored in a hidden file in the inhere directo
 Commands you may need to solve this level
 ls, cd, cat, file, du, find
 <hr>
-ssh bandit3@bandit.labs.overthewire.org -p 2220 
-Lets list the directory.
+ssh bandit3@bandit.labs.overthewire.org -p 2220  
+Lets list the directory.  
 ```
 bandit3@bandit:~$ ls -la
 total 24
