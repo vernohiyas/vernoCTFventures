@@ -23,3 +23,4 @@ readme
 bandit0@bandit:~$ cat readme
 <flag will be shown here>
 ```
+[Click here for bandit1](../bandit1)
