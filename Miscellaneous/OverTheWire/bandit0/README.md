@@ -8,6 +8,7 @@ ssh
 Helpful Reading Material
 [Secure Shell (SSH) on Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
 [How to use SSH on wikiHow](https://www.wikihow.com/Use-SSH)
+<hr>
 ________________________________________________________________________________________________________________________________________
 
 <b>Bandit Level 0 → Level 1</b>
