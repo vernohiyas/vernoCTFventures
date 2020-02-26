@@ -1,10 +1,10 @@
-<b>Bandit Level 3 → Level 4</b>
-Level Goal
-The password for the next level is stored in a hidden file in the inhere directory.
-
-Commands you may need to solve this level
-ls, cd, cat, file, du, find
-<hr>
+<b>Bandit Level 3 → Level 4</b>  
+Level Goal  
+The password for the next level is stored in a hidden file in the inhere directory.  
+  
+Commands you may need to solve this level  
+ls, cd, cat, file, du, find  
+<hr>  
 ssh bandit3@bandit.labs.overthewire.org -p 2220  
 Lets list the directory.  
 ```
