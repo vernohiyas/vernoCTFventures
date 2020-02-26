@@ -8,16 +8,16 @@ ssh
 Helpful Reading Material
 [Secure Shell (SSH) on Wikipedia](https://en.wikipedia.org/wiki/Secure_Shell)
 [How to use SSH on wikiHow](https://www.wikihow.com/Use-SSH)
+________________________________________________________________________________________________________________________________________
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <b>Bandit Level 0 → Level 1</b>
 Level Goal
 The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
 Commands you may need to solve this level
 ls, cd, cat, file, du, find
+________________________________________________________________________________________________________________________________________
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 In this challenge, we just need to SSH(Secure Shell) to the game server with the credentials provided to us.  
 There are numerous tools we can use.  
 If you are on windows, you can install ssh onto your command prompt.  
