@@ -1,7 +1,7 @@
 ssh bandit2@bandit.labs.overthewire.org -p 2220
 
 Simple, just list the directory and read the file.
-In most shells, there is a function known as "Tab completion". You can typing part of the file and pressing the Tab key will complete the rest of the file for you.
+In most shells, there is a function known as "Tab completion". You can type part of the file and pressing the Tab key will complete the rest of the file for you.
 ```
 bandit2@bandit:~$ ls
 spaces in this filename
