@@ -37,4 +37,5 @@ bandit1@bandit:~$ cat $PWD/-
 
 Notes:  
 ~ represent home directory for current user  
-$PWD is an environment variable that prints the current directory you are in.
+$PWD is an environment variable that prints the current directory you are in.  
+[Click here for bandit2](../bandit2)
