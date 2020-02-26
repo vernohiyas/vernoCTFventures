@@ -10,4 +10,5 @@ bandit2@bandit:~$ cat spaces\ in\ this\ filename
 ```
 Note: "\\" is know as an escape character. It tells the program that should not be read as a special character but a string. This will become clearer to you in the future.  
 Question: In bandit2, what do you think "cat \\-" do?  
+
 (Click here for bandit3)[../bandit3]
